@@ -3,7 +3,7 @@ El objetivo de este proyecto es buscar a través de varios métodos(como son la 
 
 ## Contenido
 - [Funcionamiento](#Funcionamiento)
-- [Clona el repositorio o descargalo directamente como un archivo .zip](#Clona el repositorio o descargalo directamente como un archivo .zip)
+- [Clona el repositorio o descargalo directamente como un archivo .zip](#Clona_el_repositorio_o_descargalo_directamente_como_un_archivo_.zip)
 - [Autores](#Autores)
 
 ## Funcionamiento
