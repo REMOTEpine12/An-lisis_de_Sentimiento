@@ -9,13 +9,12 @@ El objetivo de este proyecto es buscar a través de varios métodos(como son la 
 ## Funcionamiento
 Para hacer funcionar el programa, se hizo uso de del lenguaje de programación *Python* junto con sus librerías como *Numpy, Pandas, Matplotlib, Seaborn,  tensorflow*, por decir las más importantes.
 
-## Quick Start
+## Clona el repositorio o descargalo directamente como un archivo .zip
 
-Para correr el programa de forma local, es sencillo:
+```Bash
 
-Clona el repositorio o descargalo directamente como un archivo .zip
-
-
+ git clone https://github.com/REMOTEpine12/An-lisis_de_Sentimiento.git
+```
 ## Autores
 
 - [@Remotepine99](https://github.com/REMOTEpine12) - Israel Díaz
